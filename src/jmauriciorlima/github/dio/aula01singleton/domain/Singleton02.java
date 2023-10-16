@@ -1,4 +1,4 @@
-package jmauriciorlima.github.dio.aula01.domain;
+package jmauriciorlima.github.dio.aula01singleton.domain;
 
 /**
  * Singleton "apressado"
