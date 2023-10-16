@@ -1,6 +1,6 @@
-package jmauriciorlima.github.dio.aula02strategy.test;
+package jmauriciorlima.github.dio.java.aula02strategy.test;
 
-import jmauriciorlima.github.dio.aula02strategy.domain.*;
+import jmauriciorlima.github.dio.java.aula02strategy.domain.*;
 
 public class StrategyTest {
 

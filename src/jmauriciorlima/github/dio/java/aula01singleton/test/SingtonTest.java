@@ -1,8 +1,8 @@
-package jmauriciorlima.github.dio.aula01singleton.test;
+package jmauriciorlima.github.dio.java.aula01singleton.test;
 
-import jmauriciorlima.github.dio.aula01singleton.domain.Singleton01;
-import jmauriciorlima.github.dio.aula01singleton.domain.Singleton02;
-import jmauriciorlima.github.dio.aula01singleton.domain.Singleton03;
+import jmauriciorlima.github.dio.java.aula01singleton.domain.Singleton01;
+import jmauriciorlima.github.dio.java.aula01singleton.domain.Singleton02;
+import jmauriciorlima.github.dio.java.aula01singleton.domain.Singleton03;
 
 public class SingtonTest {
 

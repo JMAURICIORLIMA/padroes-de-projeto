@@ -1,4 +1,4 @@
-package jmauriciorlima.github.dio.aula02strategy.domain;
+package jmauriciorlima.github.dio.java.aula02strategy.domain;
 
 public class Robo {
 

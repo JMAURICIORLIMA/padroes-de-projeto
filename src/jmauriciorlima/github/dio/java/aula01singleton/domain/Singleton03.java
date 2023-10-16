@@ -1,4 +1,4 @@
-package jmauriciorlima.github.dio.aula01singleton.domain;
+package jmauriciorlima.github.dio.java.aula01singleton.domain;
 
 /**
  * Singleton "Lazy Holder".
