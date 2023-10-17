@@ -1,0 +1,38 @@
+package jmauricio.com.github.padroesprojetospring.model;
+
+import jakarta.persistence.*;
+
+@Entity
+public class Customer {
+
+    @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
+    private Long id;
+    private String name;
+    @ManyToOne
+    private Address address;
+
+    public Long getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public Address getAdress() {
+        return address;
+    }
+
+    public void setAdress(Address address) {
+        this.address = address;
+    }
+}
